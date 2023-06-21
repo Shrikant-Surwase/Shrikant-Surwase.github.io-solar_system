@@ -11,4 +11,4 @@ All you need to give me one star!!!
 clone these repo in respective folder where you want
 
 run index.html page and boommmm you will see the 3D solar system with customise buttons so that you can enjoy it!!!
-[link](link)
+[link](link12)
